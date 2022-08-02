@@ -1,0 +1,15 @@
+C:\Users\artes\editor-de-texto\bin\Debug\net6.0\editor-de-texto.exe
+C:\Users\artes\editor-de-texto\bin\Debug\net6.0\editor-de-texto.deps.json
+C:\Users\artes\editor-de-texto\bin\Debug\net6.0\editor-de-texto.runtimeconfig.json
+C:\Users\artes\editor-de-texto\bin\Debug\net6.0\editor-de-texto.dll
+C:\Users\artes\editor-de-texto\bin\Debug\net6.0\editor-de-texto.pdb
+C:\Users\artes\editor-de-texto\obj\Debug\net6.0\editor-de-texto.csproj.AssemblyReference.cache
+C:\Users\artes\editor-de-texto\obj\Debug\net6.0\editor-de-texto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\artes\editor-de-texto\obj\Debug\net6.0\editor-de-texto.AssemblyInfoInputs.cache
+C:\Users\artes\editor-de-texto\obj\Debug\net6.0\editor-de-texto.AssemblyInfo.cs
+C:\Users\artes\editor-de-texto\obj\Debug\net6.0\editor-de-texto.csproj.CoreCompileInputs.cache
+C:\Users\artes\editor-de-texto\obj\Debug\net6.0\editor-de-texto.dll
+C:\Users\artes\editor-de-texto\obj\Debug\net6.0\refint\editor-de-texto.dll
+C:\Users\artes\editor-de-texto\obj\Debug\net6.0\editor-de-texto.pdb
+C:\Users\artes\editor-de-texto\obj\Debug\net6.0\editor-de-texto.genruntimeconfig.cache
+C:\Users\artes\editor-de-texto\obj\Debug\net6.0\ref\editor-de-texto.dll
